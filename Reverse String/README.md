@@ -13,5 +13,9 @@ You are given two strings,  and , separated by a new line. Each string will cons
 
 |         #       |INPUT                          |OUTPUT                         |
 |----------------|-------------------------------|-----------------------------|
-|1|shubham gupta|First Line - 7 5  Second Line - shubhamgupta. Third Line - ghubham supta|
+|1|shubham gupta||
 
+## Output
+7 5   
+shubhamgupta   
+ghubham supta   
